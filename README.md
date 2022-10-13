@@ -36,3 +36,6 @@ Events status and Events Level Type).
 
 uuidv4 package is used to generate unique id for each newly created hackathons.
 
+
+Deployment Link - https://rajvamsi-dphi-frontend-assignment.netlify.app/
+

@@ -61,7 +61,7 @@ const EditHackathon = () => {
     <>
     <ToastContainer />
     <div className='challenge-details'>Challenge Details</div>
-    <Form className='event-form-container'>
+    <Form className='event-form-container' onSubmit={(e) => {e.preventDefault()}}>
         <Form.Group className='mb-4'>
             <Form.Label>Challenge Name</Form.Label>
             <Form.Control
